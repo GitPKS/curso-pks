@@ -23,6 +23,8 @@ namespace Switch_Case
             Console.WriteLine(d2.ToString("yyyy-MM-ddTHH:mm:ssZ"));
             Console.WriteLine(d2.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ"));
 
+            Console.WriteLine("Será que funciona?");
+
 
 
         }
